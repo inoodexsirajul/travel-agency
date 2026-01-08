@@ -576,7 +576,7 @@
         // Initialize the sliders and track with default values
         amount && updateAmount();
 
-        // if (minSlider && maxSlider) {
+        // if (minSlider && maxSlider) 
 
         // Add event listeners for both sliders
         minSlider && minSlider.addEventListener("input", updateAmount);
